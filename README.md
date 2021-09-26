@@ -1,5 +1,5 @@
-### Hi there 👋
-##  Currently AFK because i'm studying for Enem :(
+## Hi there 👋
+###  Currently AFK because i'm studying for Enem :(
 ---
 ### Top languages:
 

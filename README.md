@@ -1,5 +1,5 @@
 ## Hi there 👋
-###  Currently AFK because i'm studying for Enem :(
+###  Currently in the first semester of Computer Science (1/8)
 ---
 ### Top languages:
 

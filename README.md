@@ -5,4 +5,4 @@
 ---
 ### Top languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigaumm&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigaumm&show_icons=true&bg_color=90,ffcaa6,f86594&title_color=000&text_color=000)
